@@ -29,8 +29,8 @@ I am a Full Stack Developer with a strong focus on building responsive and inter
 ---
 
 ### 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/vishalrandhir)
-- [Twitter](https://twitter.com/vishalrandhir)
+- [LinkedIn](https://www.linkedin.com/in/vishal-randhir-ba06a71b3)
+- [Email](vishalrandhir214@gmail.com)
 - [Instagram](https://instagram.com/vishal.randhir)
 
 ---
@@ -43,11 +43,12 @@ I love to explore new technologies and share my knowledge through blogging. Here
 
 ### 🎨 My Latest Projects
 - **[Project 1](https://github.com/vishalrandhir/FoodApp)**: A brief description of what this project does.
-- **[Project 2](https://github.com/vishalrandhir/project2)**: A brief description of what this project does.
+- **[Project 2](https://github.com/vishalrandhir/NewsApp)**: A brief description of what this project does.
 
 ---
 
+<!--
 ### 💻 Animated GIFs
 ![My Coding GIF](https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif)
 
----
+--->
