@@ -42,8 +42,8 @@ I love to explore new technologies and share my knowledge through blogging. Here
 ---
 
 ### 🎨 My Latest Projects
-- **[Project 1](https://github.com/vishalrandhir/FoodApp)**: A brief description of what this project does.
-- **[Project 2](https://github.com/vishalrandhir/NewsApp)**: A brief description of what this project does.
+- **[Project 1](https://github.com/vishalrandhir/FoodApp)**: This food delivery app, built using React.js.
+- **[Project 2](https://github.com/vishalrandhir/NewsApp)**: This News app, built using React.js and AI.
 
 ---
 
