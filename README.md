@@ -35,12 +35,6 @@ I am a Full Stack Developer with a strong focus on building responsive and inter
 
 ---
 
-### 🎉 Fun Fact
-I love to explore new technologies and share my knowledge through blogging. Here’s a random quote to inspire you:
-> "The best way to predict the future is to invent it." - Alan Kay
-
----
-
 ### 🎨 My Latest Projects
 - **[Project 1](https://github.com/vishalrandhir/FoodApp)**: This food delivery app, built using React.js.
 - **[Project 2](https://github.com/vishalrandhir/NewsApp)**: This News app, built using React.js and AI.
