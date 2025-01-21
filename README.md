@@ -31,7 +31,7 @@ I am a Full Stack Developer with a strong focus on building responsive and inter
 ### 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/vishal-randhir-ba06a71b3)
 - [Email](vishalrandhir214@gmail.com)
-- [Instagram](https://instagram.com/vishal.randhir)
+- [Github](https://github.com/vishal.randhir)
 
 ---
 
