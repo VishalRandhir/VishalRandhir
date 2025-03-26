@@ -37,7 +37,7 @@ I am a Full Stack Developer with a strong focus on building responsive and inter
 
 ### 🎨 My Latest Projects
 - **[Project 1](https://github.com/vishalrandhir/FoodApp)**: This food delivery app, built using React.js.
-- **[Project 2](https://github.com/vishalrandhir/NewsApp)**: This News app, built using React.js and AI.
+- **[Project 2](https://vishalrandhir.github.io/InvoiceApp/)**: This Invoice app, built using React.js and Firebase.
 
 ---
 
